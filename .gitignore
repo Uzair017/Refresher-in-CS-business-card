@@ -11,6 +11,7 @@
 *.cb2
 .*.lb
 
+card.pdf
 ## Intermediate documents:
 *.dvi
 *.xdv
